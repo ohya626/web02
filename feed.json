@@ -1,0 +1,113 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Flora&#x27;s website",
+    "description": "",
+    "home_page_url": "https://florahsu.site",
+    "feed_url": "https://florahsu.site/feed.json",
+    "user_comment": "",
+    "icon": "https://florahsu.site/media/website/LOGO-02.png",
+    "author": {
+        "name": "Flora Hsu"
+    },
+    "items": [
+        {
+            "id": "https://florahsu.site/contact-me/",
+            "url": "https://florahsu.site/contact-me/",
+            "title": "CONTACT ME",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T10:05:32+08:00",
+            "date_modified": "2022-09-07T10:05:32+08:00"
+        },
+        {
+            "id": "https://florahsu.site/about-me/",
+            "url": "https://florahsu.site/about-me/",
+            "title": "ABOUT ME",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-07T10:05:06+08:00",
+            "date_modified": "2022-09-07T10:05:06+08:00"
+        },
+        {
+            "id": "https://florahsu.site/post-05/",
+            "url": "https://florahsu.site/post-05/",
+            "title": "POST 05",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/5/post-05-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/5/responsive/post-05-2-xs.png 300w ,https://florahsu.site/media/posts/5/responsive/post-05-2-sm.png 480w ,https://florahsu.site/media/posts/5/responsive/post-05-2-md.png 768w ,https://florahsu.site/media/posts/5/responsive/post-05-2-lg.png 1024w\"  alt=\"\" width=\"960\" height=\"540\"></figure>",
+            "image": "https://florahsu.site/media/posts/5/post-05.png",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+                   "Video"
+            ],
+            "date_published": "2022-09-07T10:03:58+08:00",
+            "date_modified": "2022-09-07T10:09:11+08:00"
+        },
+        {
+            "id": "https://florahsu.site/post-04/",
+            "url": "https://florahsu.site/post-04/",
+            "title": "POST 04",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/4/post-04-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/4/responsive/post-04-2-xs.png 300w ,https://florahsu.site/media/posts/4/responsive/post-04-2-sm.png 480w ,https://florahsu.site/media/posts/4/responsive/post-04-2-md.png 768w ,https://florahsu.site/media/posts/4/responsive/post-04-2-lg.png 1024w\"  alt=\"\" width=\"960\" height=\"540\"></figure>",
+            "image": "https://florahsu.site/media/posts/4/post-04.png",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+                   "2D design"
+            ],
+            "date_published": "2022-09-07T10:03:43+08:00",
+            "date_modified": "2022-09-07T10:09:02+08:00"
+        },
+        {
+            "id": "https://florahsu.site/post-03/",
+            "url": "https://florahsu.site/post-03/",
+            "title": "POST 03",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/3/post-03_Hua-Ban-1-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-xs.png 300w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-sm.png 480w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-md.png 768w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-lg.png 1024w\"  alt=\"\" width=\"960\" height=\"540\"></figure>",
+            "image": "https://florahsu.site/media/posts/3/post-03_Hua-Ban-1.png",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+                   "2D design"
+            ],
+            "date_published": "2022-09-07T10:03:26+08:00",
+            "date_modified": "2022-09-07T10:08:51+08:00"
+        },
+        {
+            "id": "https://florahsu.site/post-02/",
+            "url": "https://florahsu.site/post-02/",
+            "title": "POST 02",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/2/post-02-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/2/responsive/post-02-2-xs.png 300w ,https://florahsu.site/media/posts/2/responsive/post-02-2-sm.png 480w ,https://florahsu.site/media/posts/2/responsive/post-02-2-md.png 768w ,https://florahsu.site/media/posts/2/responsive/post-02-2-lg.png 1024w\"  alt=\"\" width=\"960\" height=\"540\"></figure>",
+            "image": "https://florahsu.site/media/posts/2/post-02.png",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+                   "3D design"
+            ],
+            "date_published": "2022-09-07T10:03:05+08:00",
+            "date_modified": "2022-09-07T10:08:44+08:00"
+        },
+        {
+            "id": "https://florahsu.site/post-01/",
+            "url": "https://florahsu.site/post-01/",
+            "title": "POST 01",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/1/post-01-2.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/1/responsive/post-01-2-xs.png 300w ,https://florahsu.site/media/posts/1/responsive/post-01-2-sm.png 480w ,https://florahsu.site/media/posts/1/responsive/post-01-2-md.png 768w ,https://florahsu.site/media/posts/1/responsive/post-01-2-lg.png 1024w\"  alt=\"\" width=\"960\" height=\"540\"></figure>",
+            "image": "https://florahsu.site/media/posts/1/post-01.png",
+            "author": {
+                "name": "Flora Hsu"
+            },
+            "tags": [
+                   "3D design"
+            ],
+            "date_published": "2022-09-07T10:01:49+08:00",
+            "date_modified": "2022-09-07T10:08:30+08:00"
+        }
+    ]
+}
