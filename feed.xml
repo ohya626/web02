@@ -1,125 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Flora&#x27;s website</title>
+    <title>Fang Yu Hsu Portfolio</title>
     <link href="https://florahsu.site/feed.xml" rel="self" />
     <link href="https://florahsu.site" />
-    <updated>2022-09-07T10:09:11+08:00</updated>
+    <updated>2022-11-25T16:13:04+08:00</updated>
     <author>
-        <name>Flora Hsu</name>
+        <name>Flora</name>
     </author>
     <id>https://florahsu.site</id>
 
     <entry>
-        <title>CONTACT ME</title>
+        <title>影片-微電影</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/contact-me/"/>
-        <id>https://florahsu.site/contact-me/</id>
+        <link href="https://florahsu.site/microfilm-video/"/>
+        <id>https://florahsu.site/microfilm-video/</id>
+            <category term="Video Editing"/>
 
-        <updated>2022-09-07T10:05:32+08:00</updated>
+        <updated>2022-11-25T13:36:14+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>ABOUT ME</title>
+        <title>影片-補習班活動</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/about-me/"/>
-        <id>https://florahsu.site/about-me/</id>
+        <link href="https://florahsu.site/camschool-video/"/>
+        <id>https://florahsu.site/camschool-video/</id>
+            <category term="Video Editing"/>
 
-        <updated>2022-09-07T10:05:06+08:00</updated>
+        <updated>2022-11-25T16:13:04+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>POST 05</title>
+        <title>影片-兒童營宣傳</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/post-05/"/>
-        <id>https://florahsu.site/post-05/</id>
-            <category term="Video"/>
+        <link href="https://florahsu.site/camp-viedo/"/>
+        <id>https://florahsu.site/camp-viedo/</id>
+            <category term="Video Editing"/>
 
-        <updated>2022-09-07T10:09:11+08:00</updated>
+        <updated>2022-11-25T16:12:48+08:00</updated>
             <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>影片-聖誕節宣傳</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://florahsu.site/xmas-video/"/>
+        <id>https://florahsu.site/xmas-video/</id>
+            <category term="Video Editing"/>
+
+        <updated>2022-11-25T13:30:48+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>聖誕節海報</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://florahsu.site/xmas-poster/"/>
+        <id>https://florahsu.site/xmas-poster/</id>
+            <category term="3D Modeling"/>
+
+        <updated>2022-11-25T15:50:57+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/18/xmas00751-2.jpg" alt="" />
+                    聖誕節最應景的擺飾就是水晶球 搭上鴨子造型的雪人 營造出可愛的節日氣氛 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.site/media/posts/5/post-05.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/5/post-05-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/5/responsive/post-05-2-xs.png 300w ,https://florahsu.site/media/posts/5/responsive/post-05-2-sm.png 480w ,https://florahsu.site/media/posts/5/responsive/post-05-2-md.png 768w ,https://florahsu.site/media/posts/5/responsive/post-05-2-lg.png 1024w"  alt="" width="960" height="540"></figure>
+                    <img src="https://florahsu.site/media/posts/18/xmas00751-2.jpg" alt="" />
+                <p>聖誕節最應景的擺飾就是水晶球<br>搭上鴨子造型的雪人<br>營造出可愛的節日氣氛</p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>POST 04</title>
+        <title>小飛機海報</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/post-04/"/>
-        <id>https://florahsu.site/post-04/</id>
-            <category term="2D design"/>
+        <link href="https://florahsu.site/airplane-scene/"/>
+        <id>https://florahsu.site/airplane-scene/</id>
+            <category term="3D Modeling"/>
 
-        <updated>2022-09-07T10:09:02+08:00</updated>
-            <summary></summary>
+        <updated>2022-11-25T15:49:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/17/air020060-2.jpg" alt="" />
+                    C4D學習者都會有一台小飛機 放上鴨子飛行員 可愛度+100 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.site/media/posts/4/post-04.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/4/post-04-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/4/responsive/post-04-2-xs.png 300w ,https://florahsu.site/media/posts/4/responsive/post-04-2-sm.png 480w ,https://florahsu.site/media/posts/4/responsive/post-04-2-md.png 768w ,https://florahsu.site/media/posts/4/responsive/post-04-2-lg.png 1024w"  alt="" width="960" height="540"></figure>
+                    <img src="https://florahsu.site/media/posts/17/air020060-2.jpg" alt="" />
+                <p>C4D學習者都會有一台小飛機<br>放上鴨子飛行員<br>可愛度+100</p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
+<figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/17/air02.gif" alt="" width="600" height="800"></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>POST 03</title>
+        <title>運動相機場景</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/post-03/"/>
-        <id>https://florahsu.site/post-03/</id>
-            <category term="2D design"/>
+        <link href="https://florahsu.site/go-plus-scene/"/>
+        <id>https://florahsu.site/go-plus-scene/</id>
+            <category term="3D Modeling"/>
 
-        <updated>2022-09-07T10:08:51+08:00</updated>
-            <summary></summary>
+        <updated>2022-11-25T15:49:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/16/015-40000.jpg" alt="" />
+                    相機可以捕捉各樣的風景 配上快門造型的展台 表現出透過鏡頭置身在奇幻的世界 商品參考：GoPro Hero 10 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.site/media/posts/3/post-03_Hua-Ban-1.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/3/post-03_Hua-Ban-1-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-xs.png 300w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-sm.png 480w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-md.png 768w ,https://florahsu.site/media/posts/3/responsive/post-03_Hua-Ban-1-2-lg.png 1024w"  alt="" width="960" height="540"></figure>
+                    <img src="https://florahsu.site/media/posts/16/015-40000.jpg" alt="" />
+                <p>相機可以捕捉各樣的風景<br>配上快門造型的展台<br>表現出透過鏡頭置身在奇幻的世界<br><br>商品參考：GoPro Hero 10<br><br></p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>POST 02</title>
+        <title>機械字海報</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/post-02/"/>
-        <id>https://florahsu.site/post-02/</id>
-            <category term="3D design"/>
+        <link href="https://florahsu.site/creative-word/"/>
+        <id>https://florahsu.site/creative-word/</id>
+            <category term="3D Modeling"/>
 
-        <updated>2022-09-07T10:08:44+08:00</updated>
-            <summary></summary>
+        <updated>2022-11-25T15:47:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/15/002-2-2.jpg" alt="" />
+                    F是我名字的開頭 Functional是功能性的 雖然零件只是擺上去的 但還有Fun這個功能 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.site/media/posts/2/post-02.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/2/post-02-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/2/responsive/post-02-2-xs.png 300w ,https://florahsu.site/media/posts/2/responsive/post-02-2-sm.png 480w ,https://florahsu.site/media/posts/2/responsive/post-02-2-md.png 768w ,https://florahsu.site/media/posts/2/responsive/post-02-2-lg.png 1024w"  alt="" width="960" height="540"></figure>
+                    <img src="https://florahsu.site/media/posts/15/002-2-2.jpg" alt="" />
+                <p>F是我名字的開頭<br>Functional是功能性的<br>雖然零件只是擺上去的<br>但還有Fun這個功能</p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
+<figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/15/F02.gif" alt="" width="600" height="800"></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>POST 01</title>
+        <title>小場景海報設計</title>
         <author>
-            <name>Flora Hsu</name>
+            <name>Flora</name>
         </author>
-        <link href="https://florahsu.site/post-01/"/>
-        <id>https://florahsu.site/post-01/</id>
-            <category term="3D design"/>
+        <link href="https://florahsu.site/scene-design/"/>
+        <id>https://florahsu.site/scene-design/</id>
+            <category term="3D Modeling"/>
 
-        <updated>2022-09-07T10:08:30+08:00</updated>
-            <summary></summary>
+        <updated>2022-11-25T15:42:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/14/002-1.jpg" alt="" />
+                    書籍小場景設計 以前知識都是從書籍中取得， 創作的意象為人們想獲得智慧 而智慧之鑰藏在書中
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://florahsu.site/media/posts/1/post-01.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/1/post-01-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/1/responsive/post-01-2-xs.png 300w ,https://florahsu.site/media/posts/1/responsive/post-01-2-sm.png 480w ,https://florahsu.site/media/posts/1/responsive/post-01-2-md.png 768w ,https://florahsu.site/media/posts/1/responsive/post-01-2-lg.png 1024w"  alt="" width="960" height="540"></figure>
+                    <img src="https://florahsu.site/media/posts/14/002-1.jpg" alt="" />
+                <p>書籍小場景設計<br>以前知識都是從書籍中取得，<br>創作的意象為人們想獲得智慧<br>而智慧之鑰藏在書中<br><br></p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/14/002-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/14/responsive/002-2-xs.jpg 300w ,https://florahsu.site/media/posts/14/responsive/002-2-sm.jpg 480w ,https://florahsu.site/media/posts/14/responsive/002-2-md.jpg 768w ,https://florahsu.site/media/posts/14/responsive/002-2-lg.jpg 1024w"  alt="" width="1080" height="1270"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>自創美妝品牌設計</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://florahsu.site/brand-makeup/"/>
+        <id>https://florahsu.site/brand-makeup/</id>
+            <category term="3D Modeling"/>
+
+        <updated>2022-11-25T15:27:50+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://florahsu.site/media/posts/13/01.jpg" alt="" />
+                    自創美妝品牌「FLORA」－VIOLET系列彩妝商品 個人喜歡紫色的商品，所以用紫羅蘭為主題， 製作出整套含包裝的美妝系列產品。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://florahsu.site/media/posts/13/01.jpg" alt="" />
+                <p>自創美妝品牌「FLORA」－VIOLET系列彩妝商品<br>個人喜歡紫色的商品，所以用紫羅蘭為主題，<br>製作出整套含包裝的美妝系列產品。</p>
+<h6><br>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://florahsu.site/media/posts/13/006_all_s.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/13/responsive/006_all_s-xs.jpg 300w ,https://florahsu.site/media/posts/13/responsive/006_all_s-sm.jpg 480w ,https://florahsu.site/media/posts/13/responsive/006_all_s-md.jpg 768w ,https://florahsu.site/media/posts/13/responsive/006_all_s-lg.jpg 1024w"  alt="" width="1080" height="3600"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/13/006-02color-half.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://florahsu.site/media/posts/13/responsive/006-02color-half-xs.jpg 300w ,https://florahsu.site/media/posts/13/responsive/006-02color-half-sm.jpg 480w ,https://florahsu.site/media/posts/13/responsive/006-02color-half-md.jpg 768w ,https://florahsu.site/media/posts/13/responsive/006-02color-half-lg.jpg 1024w"  alt="" width="1800" height="1800"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://florahsu.site/media/posts/13/006-04s.gif" alt="" width="512" height="600"></figure>
             ]]>
         </content>
     </entry>
