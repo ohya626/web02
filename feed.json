@@ -11,139 +11,6 @@
     },
     "items": [
         {
-            "id": "https://florahsu.site/microfilm-video/",
-            "url": "https://florahsu.site/microfilm-video/",
-            "title": "影片-微電影",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "Video Editing"
-            ],
-            "date_published": "2022-11-25T13:36:08+08:00",
-            "date_modified": "2022-11-25T13:36:14+08:00"
-        },
-        {
-            "id": "https://florahsu.site/camschool-video/",
-            "url": "https://florahsu.site/camschool-video/",
-            "title": "影片-補習班活動",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "Video Editing"
-            ],
-            "date_published": "2022-11-25T13:35:13+08:00",
-            "date_modified": "2022-11-25T16:13:04+08:00"
-        },
-        {
-            "id": "https://florahsu.site/camp-viedo/",
-            "url": "https://florahsu.site/camp-viedo/",
-            "title": "影片-兒童營宣傳",
-            "image": "https://florahsu.site/media/posts/20/Zuo-Pin-02.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "Video Editing"
-            ],
-            "date_published": "2022-11-25T13:31:51+08:00",
-            "date_modified": "2022-11-25T16:12:48+08:00"
-        },
-        {
-            "id": "https://florahsu.site/xmas-video/",
-            "url": "https://florahsu.site/xmas-video/",
-            "title": "影片-聖誕節宣傳",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "Video Editing"
-            ],
-            "date_published": "2022-11-25T13:30:35+08:00",
-            "date_modified": "2022-11-25T13:30:48+08:00"
-        },
-        {
-            "id": "https://florahsu.site/xmas-poster/",
-            "url": "https://florahsu.site/xmas-poster/",
-            "title": "聖誕節海報",
-            "summary": "聖誕節最應景的擺飾就是水晶球 搭上鴨子造型的雪人 營造出可愛的節日氣氛 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop",
-            "content_html": "<p>聖誕節最應景的擺飾就是水晶球<br>搭上鴨子造型的雪人<br>營造出可愛的節日氣氛</p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>",
-            "image": "https://florahsu.site/media/posts/18/xmas00751-2.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "3D Modeling"
-            ],
-            "date_published": "2022-11-25T13:24:09+08:00",
-            "date_modified": "2022-11-25T15:50:57+08:00"
-        },
-        {
-            "id": "https://florahsu.site/airplane-scene/",
-            "url": "https://florahsu.site/airplane-scene/",
-            "title": "小飛機海報",
-            "summary": "C4D學習者都會有一台小飛機 放上鴨子飛行員 可愛度+100 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop",
-            "content_html": "<p>C4D學習者都會有一台小飛機<br>放上鴨子飛行員<br>可愛度+100</p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/17/air02.gif\" alt=\"\" width=\"600\" height=\"800\"></figure>",
-            "image": "https://florahsu.site/media/posts/17/air020060-2.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "3D Modeling"
-            ],
-            "date_published": "2022-11-25T13:22:51+08:00",
-            "date_modified": "2022-11-25T15:49:24+08:00"
-        },
-        {
-            "id": "https://florahsu.site/go-plus-scene/",
-            "url": "https://florahsu.site/go-plus-scene/",
-            "title": "運動相機場景",
-            "summary": "相機可以捕捉各樣的風景 配上快門造型的展台 表現出透過鏡頭置身在奇幻的世界 商品參考：GoPro Hero 10 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop",
-            "content_html": "<p>相機可以捕捉各樣的風景<br>配上快門造型的展台<br>表現出透過鏡頭置身在奇幻的世界<br><br>商品參考：GoPro Hero 10<br><br></p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>",
-            "image": "https://florahsu.site/media/posts/16/015-40000.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "3D Modeling"
-            ],
-            "date_published": "2022-11-25T13:21:40+08:00",
-            "date_modified": "2022-11-25T15:49:16+08:00"
-        },
-        {
-            "id": "https://florahsu.site/creative-word/",
-            "url": "https://florahsu.site/creative-word/",
-            "title": "機械字海報",
-            "summary": "F是我名字的開頭 Functional是功能性的 雖然零件只是擺上去的 但還有Fun這個功能 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop",
-            "content_html": "<p>F是我名字的開頭<br>Functional是功能性的<br>雖然零件只是擺上去的<br>但還有Fun這個功能</p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/15/F02.gif\" alt=\"\" width=\"600\" height=\"800\"></figure>",
-            "image": "https://florahsu.site/media/posts/15/002-2-2.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "3D Modeling"
-            ],
-            "date_published": "2022-11-25T13:20:55+08:00",
-            "date_modified": "2022-11-25T15:47:09+08:00"
-        },
-        {
-            "id": "https://florahsu.site/scene-design/",
-            "url": "https://florahsu.site/scene-design/",
-            "title": "小場景海報設計",
-            "summary": "書籍小場景設計 以前知識都是從書籍中取得， 創作的意象為人們想獲得智慧 而智慧之鑰藏在書中",
-            "content_html": "<p>書籍小場景設計<br>以前知識都是從書籍中取得，<br>創作的意象為人們想獲得智慧<br>而智慧之鑰藏在書中<br><br></p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/14/002-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/14/responsive/002-2-xs.jpg 300w ,https://florahsu.site/media/posts/14/responsive/002-2-sm.jpg 480w ,https://florahsu.site/media/posts/14/responsive/002-2-md.jpg 768w ,https://florahsu.site/media/posts/14/responsive/002-2-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1270\"></figure>",
-            "image": "https://florahsu.site/media/posts/14/002-1.jpg",
-            "author": {
-                "name": "Flora"
-            },
-            "tags": [
-                   "3D Modeling"
-            ],
-            "date_published": "2022-11-25T13:20:11+08:00",
-            "date_modified": "2022-11-25T15:42:06+08:00"
-        },
-        {
             "id": "https://florahsu.site/brand-makeup/",
             "url": "https://florahsu.site/brand-makeup/",
             "title": "自創美妝品牌設計",
@@ -157,7 +24,147 @@
                    "3D Modeling"
             ],
             "date_published": "2022-11-25T13:18:40+08:00",
-            "date_modified": "2022-11-25T15:27:50+08:00"
+            "date_modified": "2022-11-28T11:26:47+08:00"
+        },
+        {
+            "id": "https://florahsu.site/invitation-design/",
+            "url": "https://florahsu.site/invitation-design/",
+            "title": "邀請卡設計",
+            "summary": "展覽主題的關鍵字為：元宇宙、 綠色科技、未來。 風格使用立體元素，打造出虛擬、 科幻感，並帶有植物圖像的點綴， 呈現出參展的商品為高科技、綠 色(環保、功效)及未來趨勢。",
+            "content_html": "<p>展覽主題的關鍵字為：元宇宙、<br>綠色科技、未來。<br><br>風格使用立體元素，打造出虛擬、<br>科幻感，並帶有植物圖像的點綴，<br>呈現出參展的商品為高科技、綠<br>色(環保、功效)及未來趨勢。</p>\n<h6>使用軟件：Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/12/card-Hang-Zhou-03.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/12/responsive/card-Hang-Zhou-03-xs.png 300w ,https://florahsu.site/media/posts/12/responsive/card-Hang-Zhou-03-sm.png 480w ,https://florahsu.site/media/posts/12/responsive/card-Hang-Zhou-03-md.png 768w ,https://florahsu.site/media/posts/12/responsive/card-Hang-Zhou-03-lg.png 1024w\"  alt=\"\" width=\"642\" height=\"1463\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/12/card-Guang-Zhou-Zhan.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/12/responsive/card-Guang-Zhou-Zhan-xs.png 300w ,https://florahsu.site/media/posts/12/responsive/card-Guang-Zhou-Zhan-sm.png 480w ,https://florahsu.site/media/posts/12/responsive/card-Guang-Zhou-Zhan-md.png 768w ,https://florahsu.site/media/posts/12/responsive/card-Guang-Zhou-Zhan-lg.png 1024w\"  alt=\"\" width=\"642\" height=\"1136\"></figure>\n<p> </p>",
+            "image": "https://florahsu.site/media/posts/12/card12Yue.png",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2022-11-25T13:17:32+08:00",
+            "date_modified": "2022-11-28T10:49:22+08:00"
+        },
+        {
+            "id": "https://florahsu.site/product-detail/",
+            "url": "https://florahsu.site/product-detail/",
+            "title": "FC定妝粉詳情頁設計",
+            "summary": "科技感的流線型藍色背景，以銀色、橘色做點綴， 呈現出商品的細膩的功效及未來時尚的氛圍。",
+            "content_html": "<p>科技感的流線型藍色背景，以銀色、橘色做點綴，<br>呈現出商品的細膩的功效及未來時尚的氛圍。</p>\n<h6>使用軟件：Illustrator、Photoshop</h6>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/11/KV2_Chang-Tu-ALL.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/11/responsive/KV2_Chang-Tu-ALL-xs.jpg 300w ,https://florahsu.site/media/posts/11/responsive/KV2_Chang-Tu-ALL-sm.jpg 480w ,https://florahsu.site/media/posts/11/responsive/KV2_Chang-Tu-ALL-md.jpg 768w ,https://florahsu.site/media/posts/11/responsive/KV2_Chang-Tu-ALL-lg.jpg 1024w\"  alt=\"\" width=\"750\" height=\"11817\"></figure>",
+            "image": "https://florahsu.site/media/posts/11/KV2_Qie-Pian-1.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2022-11-25T13:13:37+08:00",
+            "date_modified": "2022-11-28T13:26:03+08:00"
+        },
+        {
+            "id": "https://florahsu.site/poster-design/",
+            "url": "https://florahsu.site/poster-design/",
+            "title": "新年活動海報設計",
+            "summary": "FC品牌天貓商城的新年活動海報， 以閃亮的背景點綴品牌圖形元素，呈現東方奢華氛圍 使用軟件：Illustrator、Photoshop",
+            "content_html": "<p>FC品牌天貓商城的新年活動海報，<br>以閃亮的背景點綴品牌圖形元素，呈現東方奢華氛圍</p>\n<h6>使用軟件：Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/10/tmall_tiger1.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/10/responsive/tmall_tiger1-xs.jpg 300w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger1-sm.jpg 480w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger1-md.jpg 768w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger1-lg.jpg 1024w\"  alt=\"\" width=\"802\" height=\"802\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/10/tmall_tiger-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/10/responsive/tmall_tiger-2-xs.jpg 300w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-2-sm.jpg 480w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-2-md.jpg 768w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-2-lg.jpg 1024w\"  alt=\"\" width=\"802\" height=\"802\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/10/tmall_tiger-4-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/10/responsive/tmall_tiger-4-2-xs.jpg 300w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-4-2-sm.jpg 480w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-4-2-md.jpg 768w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-4-2-lg.jpg 1024w\"  alt=\"\" width=\"791\" height=\"1194\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/10/tmall_tiger-5.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/10/responsive/tmall_tiger-5-xs.jpg 300w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-5-sm.jpg 480w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-5-md.jpg 768w ,https://florahsu.site/media/posts/10/responsive/tmall_tiger-5-lg.jpg 1024w\"  alt=\"\" width=\"791\" height=\"1194\"></figure>",
+            "image": "https://florahsu.site/media/posts/10/tmall_tiger3.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2022-11-25T13:12:08+08:00",
+            "date_modified": "2022-11-28T13:26:50+08:00"
+        },
+        {
+            "id": "https://florahsu.site/live-material/",
+            "url": "https://florahsu.site/live-material/",
+            "title": "直播相關素材設計",
+            "summary": "直播預告圖設計 以及私流量粉絲群頭像設計",
+            "content_html": "<p>直播預告圖設計<br>以及私流量粉絲群頭像設計</p>\n<h6>使用軟件：Illustrator、Photoshop</h6>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/9/004-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/9/responsive/004-2-xs.jpg 300w ,https://florahsu.site/media/posts/9/responsive/004-2-sm.jpg 480w ,https://florahsu.site/media/posts/9/responsive/004-2-md.jpg 768w ,https://florahsu.site/media/posts/9/responsive/004-2-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1000\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/9/002-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/9/responsive/002-2-xs.jpg 300w ,https://florahsu.site/media/posts/9/responsive/002-2-sm.jpg 480w ,https://florahsu.site/media/posts/9/responsive/002-2-md.jpg 768w ,https://florahsu.site/media/posts/9/responsive/002-2-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1917\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/9/003.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/9/responsive/003-xs.jpg 300w ,https://florahsu.site/media/posts/9/responsive/003-sm.jpg 480w ,https://florahsu.site/media/posts/9/responsive/003-md.jpg 768w ,https://florahsu.site/media/posts/9/responsive/003-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1918\"></figure>",
+            "image": "https://florahsu.site/media/posts/9/001.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "Graphic Design"
+            ],
+            "date_published": "2022-11-25T13:10:24+08:00",
+            "date_modified": "2022-11-28T10:49:47+08:00"
+        },
+        {
+            "id": "https://florahsu.site/natural-product/",
+            "url": "https://florahsu.site/natural-product/",
+            "title": "商品建模渲染",
+            "summary": "此為展示公司可替客戶規劃之系列商品， 僅供客戶參考之示意用途。 採用低飽和自然米色作為底色，凸顯商品之天然及環保的概念 使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop",
+            "content_html": "<p>此為展示公司可替客戶規劃之系列商品，<br>僅供客戶參考之示意用途。</p>\n<p>採用低飽和自然米色作為底色，凸顯商品之天然及環保的概念</p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>\n<h6><figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;\" src=\"https://florahsu.site/media/posts/6/ALL-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/6/responsive/ALL-2-xs.jpg 300w ,https://florahsu.site/media/posts/6/responsive/ALL-2-sm.jpg 480w ,https://florahsu.site/media/posts/6/responsive/ALL-2-md.jpg 768w ,https://florahsu.site/media/posts/6/responsive/ALL-2-lg.jpg 1024w\"  alt=\"\" width=\"1920\" height=\"1080\"></figure></h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/6/eye.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/6/responsive/eye-xs.jpg 300w ,https://florahsu.site/media/posts/6/responsive/eye-sm.jpg 480w ,https://florahsu.site/media/posts/6/responsive/eye-md.jpg 768w ,https://florahsu.site/media/posts/6/responsive/eye-lg.jpg 1024w\"  alt=\"\" width=\"1000\" height=\"1000\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/6/hair.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/6/responsive/hair-xs.jpg 300w ,https://florahsu.site/media/posts/6/responsive/hair-sm.jpg 480w ,https://florahsu.site/media/posts/6/responsive/hair-md.jpg 768w ,https://florahsu.site/media/posts/6/responsive/hair-lg.jpg 1024w\"  alt=\"\" width=\"1000\" height=\"1000\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/6/mask.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/6/responsive/mask-xs.jpg 300w ,https://florahsu.site/media/posts/6/responsive/mask-sm.jpg 480w ,https://florahsu.site/media/posts/6/responsive/mask-md.jpg 768w ,https://florahsu.site/media/posts/6/responsive/mask-lg.jpg 1024w\"  alt=\"\" width=\"1000\" height=\"1000\"></figure>",
+            "image": "https://florahsu.site/media/posts/6/mask-2.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "3D Modeling"
+            ],
+            "date_published": "2022-09-08T15:52:46+08:00",
+            "date_modified": "2022-11-28T10:54:35+08:00"
+        },
+        {
+            "id": "https://florahsu.site/eye-makeup/",
+            "url": "https://florahsu.site/eye-makeup/",
+            "title": "眼妝產品設計",
+            "summary": "此為公司原有的眼妝商品進行塑殼顏色統一規劃 採用品牌VI的藍色與橘色，LOGO的部分以燙金模擬處理。",
+            "content_html": "<p>此為公司原有的眼妝商品進行塑殼顏色統一規劃<br>採用品牌VI的藍色與橘色，LOGO的部分以燙金模擬處理。</p>\n<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/5/product-scene01-2.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/5/responsive/product-scene01-2-xs.jpg 300w ,https://florahsu.site/media/posts/5/responsive/product-scene01-2-sm.jpg 480w ,https://florahsu.site/media/posts/5/responsive/product-scene01-2-md.jpg 768w ,https://florahsu.site/media/posts/5/responsive/product-scene01-2-lg.jpg 1024w\"  alt=\"\" width=\"1920\" height=\"1080\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/5/product-scene03.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/5/responsive/product-scene03-xs.jpg 300w ,https://florahsu.site/media/posts/5/responsive/product-scene03-sm.jpg 480w ,https://florahsu.site/media/posts/5/responsive/product-scene03-md.jpg 768w ,https://florahsu.site/media/posts/5/responsive/product-scene03-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1920\"></figure>\n<p> </p>",
+            "image": "https://florahsu.site/media/posts/5/product-scene02-2.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "3D Modeling"
+            ],
+            "date_published": "2022-09-08T15:51:32+08:00",
+            "date_modified": "2022-11-28T11:46:16+08:00"
+        },
+        {
+            "id": "https://florahsu.site/display-modeling/",
+            "url": "https://florahsu.site/display-modeling/",
+            "title": "陳列架建模渲染",
+            "summary": "以科技、專業為整體視覺方向 使用玻璃、實驗器材來凸顯產品為高科技的美妝 *此為品牌陳列架整體視覺參考 使用軟件：Blender(Cycles render)、Illustrator、Photoshop",
+            "content_html": "<p>以科技、專業為整體視覺方向<br>使用玻璃、實驗器材來凸顯產品為高科技的美妝<br><br>*此為品牌陳列架整體視覺參考</p>\n<h6>使用軟件：Blender(Cycles render)、Illustrator、Photoshop</h6>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/4/002.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/4/responsive/002-xs.jpg 300w ,https://florahsu.site/media/posts/4/responsive/002-sm.jpg 480w ,https://florahsu.site/media/posts/4/responsive/002-md.jpg 768w ,https://florahsu.site/media/posts/4/responsive/002-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1500\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/4/003.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/4/responsive/003-xs.jpg 300w ,https://florahsu.site/media/posts/4/responsive/003-sm.jpg 480w ,https://florahsu.site/media/posts/4/responsive/003-md.jpg 768w ,https://florahsu.site/media/posts/4/responsive/003-lg.jpg 1024w\"  alt=\"\" width=\"1080\" height=\"1500\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://florahsu.site/media/posts/4/all.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://florahsu.site/media/posts/4/responsive/all-xs.jpg 300w ,https://florahsu.site/media/posts/4/responsive/all-sm.jpg 480w ,https://florahsu.site/media/posts/4/responsive/all-md.jpg 768w ,https://florahsu.site/media/posts/4/responsive/all-lg.jpg 1024w\"  alt=\"\" width=\"2183\" height=\"1080\"></figure>",
+            "image": "https://florahsu.site/media/posts/4/004-2.jpg",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+                   "3D Modeling"
+            ],
+            "date_published": "2022-09-08T15:51:08+08:00",
+            "date_modified": "2022-11-28T10:58:39+08:00"
+        },
+        {
+            "id": "https://florahsu.site/contact-me/",
+            "url": "https://florahsu.site/contact-me/",
+            "title": "Contact Me",
+            "summary": "TEL:+886 910917685 EMAIL:flaa.hsu@gmail.com",
+            "content_html": "<p>TEL:+886 910917685</p>\n<p>EMAIL:flaa.hsu@gmail.com</p>",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-08T15:49:52+08:00",
+            "date_modified": "2022-11-28T13:55:27+08:00"
+        },
+        {
+            "id": "https://florahsu.site/about-me/",
+            "url": "https://florahsu.site/about-me/",
+            "title": "About Me",
+            "summary": "嗨，您好！我是Flora Hsu 許芳瑜，感謝您點進來看我的作品集網站。 工業管理系畢業，學習力強，對於周圍的事物能有很好的洞察力。 在2021疫情期間偶然間學習了C4D，發現3D可以實現很多自己的想法，到目前一直都還在持續學習中。 另外會使用剪輯軟件Final cut proX。 求職方向為平面設計、3D皆可，若有符合貴公司職缺要求且您有意願進一步面談，可以照履歷表的聯繫方式聯絡我。",
+            "content_html": "<div data-pm-slice=\"1 1 []\" data-en-clipboard=\"true\">\n<div data-pm-slice=\"1 1 []\" data-en-clipboard=\"true\">嗨，您好！我是Flora Hsu 許芳瑜，感謝您點進來看我的作品集網站。</div>\n<div data-pm-slice=\"1 1 []\" data-en-clipboard=\"true\"> </div>\n<div>工業管理系畢業，學習力強，對於周圍的事物能有很好的洞察力。</div>\n<div> </div>\n<div>在2021疫情期間偶然間學習了C4D，發現3D可以實現很多自己的想法，到目前一直都還在持續學習中。</div>\n<div> </div>\n<div>另外會使用剪輯軟件Final cut proX。</div>\n<div> </div>\n<div>求職方向為平面設計、3D皆可，若有符合貴公司職缺要求且您有意願進一步面談，可以照履歷表的聯繫方式聯絡我。</div>\n</div>",
+            "author": {
+                "name": "Flora"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-08T15:49:42+08:00",
+            "date_modified": "2022-11-28T13:43:11+08:00"
         }
     ]
 }
