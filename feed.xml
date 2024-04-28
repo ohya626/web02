@@ -3,226 +3,163 @@
     <title>Fang Yu Hsu Portfolio</title>
     <link href="https://fangyu-hsu.website/feed.xml" rel="self" />
     <link href="https://fangyu-hsu.website" />
-    <updated>2023-10-05T17:24:33+08:00</updated>
+    <updated>2024-04-28T22:30:51+08:00</updated>
     <author>
         <name>Flora</name>
     </author>
     <id>https://fangyu-hsu.website</id>
 
     <entry>
-        <title>線下實體店展示架</title>
+        <title>Display Stand Design</title>
         <author>
             <name>Flora</name>
         </author>
         <link href="https://fangyu-hsu.website/display_stand/"/>
         <id>https://fangyu-hsu.website/display_stand/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/34/am03_Hua-Ban-1.jpg" medium="image" />
+        <media:content url="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic.png" medium="image" />
             <category term="Graphic Design"/>
 
-        <updated>2023-10-05T17:24:33+08:00</updated>
+        <updated>2024-04-15T13:09:31+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/34/am03_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/am01_Hua-Ban-1.jpg" alt="" width="1210" height="1311" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/am01_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/34/responsive/am01_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/34/responsive/am01_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/34/responsive/am01_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/am02_Hua-Ban-1.jpg" alt="" width="1210" height="1311" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/am02_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/34/responsive/am02_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/34/responsive/am02_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/34/responsive/am02_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/am04_Hua-Ban-1.jpg" alt="" width="2004" height="911" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/am04_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/34/responsive/am04_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/34/responsive/am04_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/34/responsive/am04_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/am05_Hua-Ban-1.jpg" alt="" width="2004" height="911" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/am05_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/34/responsive/am05_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/34/responsive/am05_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/34/responsive/am05_Hua-Ban-1-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>2023新品發布會</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/2023newrelease/"/>
-        <id>https://fangyu-hsu.website/2023newrelease/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/33/new01_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T17:13:44+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/33/new01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/new02_Hua-Ban-1.jpg" alt="" width="1634" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/new02_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/33/responsive/new02_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/33/responsive/new02_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/33/responsive/new02_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/new03_Hua-Ban-1.jpg" alt="" width="1634" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/new03_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/33/responsive/new03_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/33/responsive/new03_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/33/responsive/new03_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/new04_Hua-Ban-1.jpg" alt="" width="1634" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/new04_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/33/responsive/new04_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/33/responsive/new04_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/33/responsive/new04_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/new05_Hua-Ban-1.jpg" alt="" width="1634" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/new05_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/33/responsive/new05_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/33/responsive/new05_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/33/responsive/new05_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/new06-02.jpg" alt="" width="1080" height="2496" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/new06-02-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/33/responsive/new06-02-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/33/responsive/new06-02-md.jpg 768w ,https://fangyu-hsu.website/media/posts/33/responsive/new06-02-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>美妝創新展視覺設計</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/exhibition_flower/"/>
-        <id>https://fangyu-hsu.website/exhibition_flower/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/32/f02_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T17:17:39+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/32/f02_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/f07-02.jpg" alt="" width="1564" height="3398" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/f07-02-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/32/responsive/f07-02-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/32/responsive/f07-02-md.jpg 768w ,https://fangyu-hsu.website/media/posts/32/responsive/f07-02-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/f03_Hua-Ban-1.jpg" alt="" width="1442" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/f03_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/32/responsive/f03_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/32/responsive/f03_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/32/responsive/f03_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/f01_Hua-Ban-1.jpg" alt="" width="1442" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/f01_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/32/responsive/f01_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/32/responsive/f01_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/32/responsive/f01_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/f04_Hua-Ban-1.jpg" alt="" width="1442" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/f04_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/32/responsive/f04_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/32/responsive/f04_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/32/responsive/f04_Hua-Ban-1-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/f06_Hua-Ban-1.jpg" alt="" width="1634" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/f06_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/32/responsive/f06_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/32/responsive/f06_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/32/responsive/f06_Hua-Ban-1-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>邀請卡&amp;banner設計</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/invitation_banner/"/>
-        <id>https://fangyu-hsu.website/invitation_banner/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/31/ivi_01_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T12:06:11+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/31/ivi_01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/ivi_02_Hua-Ban-1-2.jpg" alt="" width="1920" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/ivi_02_Hua-Ban-1-2-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_02_Hua-Ban-1-2-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_02_Hua-Ban-1-2-md.jpg 768w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_02_Hua-Ban-1-2-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/ivi_03_Hua-Ban-1.jpg" alt="" width="1920" height="6352" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/ivi_03_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_03_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_03_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/31/responsive/ivi_03_Hua-Ban-1-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>海外展覽海報設計</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/exhibition_poster/"/>
-        <id>https://fangyu-hsu.website/exhibition_poster/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/30/ex_p01_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T11:53:01+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/30/ex_p01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/30/ex_p02_Hua-Ban-1.jpg" alt="" width="1330" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/30/responsive/ex_p02_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/30/responsive/ex_p02_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/30/responsive/ex_p02_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/30/responsive/ex_p02_Hua-Ban-1-lg.jpg 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>展會宣傳單</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/thg_flyer/"/>
-        <id>https://fangyu-hsu.website/thg_flyer/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/29/thgflyer_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T11:38:47+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/29/thgflyer_Hua-Ban-1.jpg" alt="" />
-                    使用軟件：Illustrator、Photoshop
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/29/thgflyer_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <h6>使用軟件：Illustrator、Photoshop</h6>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>品牌四折頁傳單</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/fc_flyer/"/>
-        <id>https://fangyu-hsu.website/fc_flyer/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/28/fcintro01_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T11:38:38+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/28/fcintro01_Hua-Ban-1.jpg" alt="" />
-                    使用軟件：Illustrator、Photoshop
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/28/fcintro01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/28/fcintro02_Hua-Ban-1.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/28/responsive/fcintro02_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/28/responsive/fcintro02_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/28/responsive/fcintro02_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/28/responsive/fcintro02_Hua-Ban-1-lg.jpg 1024w"></figure>
-<p> </p>
-<h6>使用軟件：Illustrator、Photoshop</h6>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>賀卡設計</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/card_design/"/>
-        <id>https://fangyu-hsu.website/card_design/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/27/card01_Hua-Ban-1.jpg" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2023-10-05T11:30:48+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/27/card01_Hua-Ban-1.jpg" alt="" />
-                    使用軟件：Illustrator、Photoshop
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/27/card01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/27/card02_Hua-Ban-1-2.jpg" alt="" width="1920" height="1859" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/27/responsive/card02_Hua-Ban-1-2-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/27/responsive/card02_Hua-Ban-1-2-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/27/responsive/card02_Hua-Ban-1-2-md.jpg 768w ,https://fangyu-hsu.website/media/posts/27/responsive/card02_Hua-Ban-1-2-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/27/card03_Hua-Ban-1.jpg" alt="" width="1920" height="1859" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/27/responsive/card03_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/27/responsive/card03_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/27/responsive/card03_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/27/responsive/card03_Hua-Ban-1-lg.jpg 1024w"></figure>
-<h6>使用軟件：Illustrator、Photoshop</h6>
+                    <p><img src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_01-2.png" alt="" width="1080" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-md.png 768w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_02-2.png" alt="" width="1080" height="1295" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-2-md.png 768w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-2-lg.png 1024w"></figure>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>其他類海報設計</title>
+        <title>2023 THG Product Launch Event</title>
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/other_poster/"/>
-        <id>https://fangyu-hsu.website/other_poster/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/26/find01_Hua-Ban-1.jpg" medium="image" />
+        <link href="https://fangyu-hsu.website/2023launch_event/"/>
+        <id>https://fangyu-hsu.website/2023launch_event/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" medium="image" />
             <category term="Graphic Design"/>
 
-        <updated>2023-10-05T11:11:52+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/26/find01_Hua-Ban-1.jpg" alt="" />
-                    科技感的流線型藍色背景，以銀色、橘色做點綴， 呈現出商品的細膩的功效及未來時尚的氛圍。
-                ]]>
-            </summary>
+        <updated>2024-04-15T13:25:09+08:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/26/find01_Hua-Ban-1.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/26/find02_Hua-Ban-1.jpg" alt="" width="1431" height="2835" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/26/responsive/find02_Hua-Ban-1-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/26/responsive/find02_Hua-Ban-1-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/26/responsive/find02_Hua-Ban-1-md.jpg 768w ,https://fangyu-hsu.website/media/posts/26/responsive/find02_Hua-Ban-1-lg.jpg 1024w"></figure>
-<p>科技感的流線型藍色背景，以銀色、橘色做點綴，<br>呈現出商品的細膩的功效及未來時尚的氛圍。</p>
-<h6>使用軟件：Illustrator、Photoshop</h6>
+                    <p><img src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-md.png 768w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-md.png 768w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-lg.png 1024w"></figure>
+<p> </p>
+<p> </p>
 <p> </p>
 <p> </p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>自創美妝品牌設計</title>
+        <title>2023 CiE Innovation Exhibition</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/cie_innovation_exhibition/"/>
+        <id>https://fangyu-hsu.website/cie_innovation_exhibition/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-15T14:18:13+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-md.png 768w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-md.png 768w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-lg.png 1024w"></figure>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Invitation Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/invitation/"/>
+        <id>https://fangyu-hsu.website/invitation/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-27T22:20:48+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_01.png" alt="" width="1080" height="1557" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Roll-up Banner Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/roll-up_banner/"/>
+        <id>https://fangyu-hsu.website/roll-up_banner/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-27T22:58:40+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_01.png" alt="" width="1080" height="5136" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_02.png" alt="" width="1080" height="996" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-md.png 768w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brochure Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/brochure/"/>
+        <id>https://fangyu-hsu.website/brochure/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-27T23:24:30+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2.png" alt="" width="1080" height="2390" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-md.png 768w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Geeting Card Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/greeting_card/"/>
+        <id>https://fangyu-hsu.website/greeting_card/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-28T00:42:52+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-md.png 768w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>VIOLET Collection</title>
         <author>
             <name>Flora</name>
         </author>
@@ -231,7 +168,7 @@
         <media:content url="https://fangyu-hsu.website/media/posts/13/01.jpg" medium="image" />
             <category term="3D Modeling"/>
 
-        <updated>2022-11-28T11:26:47+08:00</updated>
+        <updated>2024-04-28T22:30:51+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://fangyu-hsu.website/media/posts/13/01.jpg" alt="" />
@@ -247,6 +184,44 @@
 <figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://fangyu-hsu.website/media/posts/13/006_all_s.jpg" alt="" width="1080" height="3600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-md.jpg 768w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-lg.jpg 1024w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/13/006-02color-half.jpg" alt="" width="1800" height="1800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-md.jpg 768w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-lg.jpg 1024w"></figure>
 <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/13/006-04s.gif" alt="" width="512" height="600"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>E-commerce Poster</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/ecommerce_poster/"/>
+        <id>https://fangyu-hsu.website/ecommerce_poster/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_ft_pic.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-28T00:03:03+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-lg.png 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Product Detail Page Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/product-detail/"/>
+        <id>https://fangyu-hsu.website/product-detail/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_ft_pic-2.png" medium="image" />
+            <category term="Graphic Design"/>
+
+        <updated>2024-04-28T00:33:56+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_ft_pic-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_01.png" alt="" width="1080" height="12224" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
