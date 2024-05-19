@@ -3,12 +3,45 @@
     <title>Fang Yu Hsu Portfolio</title>
     <link href="https://fangyu-hsu.website/feed.xml" rel="self" />
     <link href="https://fangyu-hsu.website" />
-    <updated>2024-04-28T22:30:51+08:00</updated>
+    <updated>2024-05-19T23:13:16+08:00</updated>
     <author>
         <name>Flora</name>
     </author>
     <id>https://fangyu-hsu.website</id>
 
+    <entry>
+        <title>Lipstick Design</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyu-hsu.website/lipstick_design/"/>
+        <id>https://fangyu-hsu.website/lipstick_design/</id>
+        <media:content url="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" medium="image" />
+            <category term="3D Modeling"/>
+
+        <updated>2024-05-19T23:13:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" alt="" />
+                    Personal Work
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_02.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_03-2.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-2-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_03_half-2.png" alt="" width="311" height="355" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03_half-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03_half-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03_half-2-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03_half-2-lg.png 1024w"></figure>
+<p> </p>
+<p>Personal Work</p>
+<h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
+<h6> </h6>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Display Stand Design</title>
         <author>
@@ -203,25 +236,6 @@
             <![CDATA[
                     <p><img src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-lg.png 1024w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Product Detail Page Design</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/product-detail/"/>
-        <id>https://fangyu-hsu.website/product-detail/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_ft_pic-2.png" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2024-04-28T00:33:56+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_ft_pic-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/11/FCXiang-Qing-Ye-Pai-Ban_01.png" alt="" width="1080" height="12224" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/11/responsive/FCXiang-Qing-Ye-Pai-Ban_01-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
