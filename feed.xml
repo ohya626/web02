@@ -1,37 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Fang Yu Hsu Portfolio</title>
-    <link href="https://fangyu-hsu.website/feed.xml" rel="self" />
-    <link href="https://fangyu-hsu.website" />
-    <updated>2024-07-17T23:38:17+08:00</updated>
+    <link href="https://fangyuhsu.website/feed.xml" rel="self" />
+    <link href="https://fangyuhsu.website" />
+    <updated>2024-08-27T13:58:14+08:00</updated>
     <author>
         <name>Flora</name>
     </author>
-    <id>https://fangyu-hsu.website</id>
+    <id>https://fangyuhsu.website</id>
 
+    <entry>
+        <title>Cake Animation</title>
+        <author>
+            <name>Flora</name>
+        </author>
+        <link href="https://fangyuhsu.website/cake_animation/"/>
+        <id>https://fangyuhsu.website/cake_animation/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/38/Torch18Pai-Ban_ft_pic_ft_pic.png" medium="image" />
+            <category term="3D Modeling"/>
+
+        <updated>2024-08-27T13:58:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fangyuhsu.website/media/posts/38/Torch18Pai-Ban_ft_pic_ft_pic.png" alt="" />
+                    Torch Church 18th Anniversary Cake animation 軟體：C4D+Octane Render+After Effects Photo Credit: Torch&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://fangyuhsu.website/media/posts/38/Torch18Pai-Ban_ft_pic_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure>
+<p>Torch Church 18th Anniversary</p>
+<p>Cake animation</p>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/38/Torch18Pai-Ban_01.png" alt="" width="805" height="780" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/38/responsive/Torch18Pai-Ban_01-xs.png 300w ,https://fangyuhsu.website/media/posts/38/responsive/Torch18Pai-Ban_01-sm.png 480w ,https://fangyuhsu.website/media/posts/38/responsive/Torch18Pai-Ban_01-md.png 768w ,https://fangyuhsu.website/media/posts/38/responsive/Torch18Pai-Ban_01-lg.png 1024w"></figure>
+</figure>
+<figure>Video(3840x732)</figure>
+<figure class="post__video"><iframe loading="lazy" width="1920" height="366" title="vimeo-player" src="https://player.vimeo.com/video/1002786520?h=27fe7b2281" frameborder="0" allowfullscreen="allowfullscreen"></iframe></figure>
+<p>軟體：C4D+Octane Render+After Effects</p>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/38/20240811Shi-Ba-Zhou-Nian-128_s.jpg" alt="" width="1250" height="834" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-128_s-xs.jpg 300w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-128_s-sm.jpg 480w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-128_s-md.jpg 768w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-128_s-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/38/20240811Shi-Ba-Zhou-Nian-120_s.jpg" alt="" width="1250" height="834" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-120_s-xs.jpg 300w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-120_s-sm.jpg 480w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-120_s-md.jpg 768w ,https://fangyuhsu.website/media/posts/38/responsive/20240811Shi-Ba-Zhou-Nian-120_s-lg.jpg 1024w"></figure>
+<p>Photo Credit: Torch Church</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lipstick Design</title>
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/lipstick_design/"/>
-        <id>https://fangyu-hsu.website/lipstick_design/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" medium="image" />
+        <link href="https://fangyuhsu.website/lipstick_design/"/>
+        <id>https://fangyuhsu.website/lipstick_design/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/37/project01_lipstick_04.png" medium="image" />
             <category term="3D Modeling"/>
 
         <updated>2024-05-22T00:39:52+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" alt="" />
+                        <img src="https://fangyuhsu.website/media/posts/37/project01_lipstick_04.png" alt="" />
                     Personal Work
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_04.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_02.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_02-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_03.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_03-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/37/project01_lipstick_05_half.png" alt="" width="1080" height="1011" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_05_half-xs.png 300w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_05_half-sm.png 480w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_05_half-md.png 768w ,https://fangyu-hsu.website/media/posts/37/responsive/project01_lipstick_05_half-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/37/project01_lipstick_04.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/37/project01_lipstick_02.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_02-xs.png 300w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_02-sm.png 480w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_02-md.png 768w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_02-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/37/project01_lipstick_03.png" alt="" width="1080" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_03-xs.png 300w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_03-sm.png 480w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_03-md.png 768w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_03-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/37/project01_lipstick_05_half.png" alt="" width="1080" height="1011" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_05_half-xs.png 300w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_05_half-sm.png 480w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_05_half-md.png 768w ,https://fangyuhsu.website/media/posts/37/responsive/project01_lipstick_05_half-lg.png 1024w"></figure>
 <p>Personal Work</p>
 <h6>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
 <h6> </h6>
@@ -46,18 +80,18 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/display_stand/"/>
-        <id>https://fangyu-hsu.website/display_stand/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" medium="image" />
+        <link href="https://fangyuhsu.website/display_stand/"/>
+        <id>https://fangyuhsu.website/display_stand/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-07-17T23:38:17+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_01-2.png" alt="" width="1080" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-md.png 768w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_02.jpg" alt="" width="1080" height="1875" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-md.jpg 768w ,https://fangyu-hsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-lg.jpg 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_01-2.png" alt="" width="1080" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-xs.png 300w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-sm.png 480w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-md.png 768w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_02.jpg" alt="" width="1080" height="1875" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-xs.jpg 300w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-sm.jpg 480w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-md.jpg 768w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-lg.jpg 1024w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -67,18 +101,18 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/2023launch_event/"/>
-        <id>https://fangyu-hsu.website/2023launch_event/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" medium="image" />
+        <link href="https://fangyuhsu.website/2023launch_event/"/>
+        <id>https://fangyuhsu.website/2023launch_event/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-15T13:25:09+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-md.png 768w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-md.png 768w ,https://fangyu-hsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/33/2023She-Fan-Guang-Ying_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-xs.png 300w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-sm.png 480w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-md.png 768w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic2-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/33/2023She-Fan-Guang-Ying_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-xs.png 300w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-sm.png 480w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-md.png 768w ,https://fangyuhsu.website/media/posts/33/responsive/2023She-Fan-Guang-Ying_pic3-2-lg.png 1024w"></figure>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -91,18 +125,18 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/cie_innovation_exhibition/"/>
-        <id>https://fangyu-hsu.website/cie_innovation_exhibition/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" medium="image" />
+        <link href="https://fangyuhsu.website/cie_innovation_exhibition/"/>
+        <id>https://fangyuhsu.website/cie_innovation_exhibition/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-15T14:18:13+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-md.png 768w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-md.png 768w ,https://fangyu-hsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2.png" alt="" width="1081" height="2054" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-xs.png 300w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-sm.png 480w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-md.png 768w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic2-2-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/32/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2.png" alt="" width="1081" height="3520" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-xs.png 300w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-sm.png 480w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-md.png 768w ,https://fangyuhsu.website/media/posts/32/responsive/2023Chuang-Xin-Zhan-Zhou-Wai-Sheng-Hua_pic3-2-lg.png 1024w"></figure>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -115,20 +149,20 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/invitation/"/>
-        <id>https://fangyu-hsu.website/invitation/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" medium="image" />
+        <link href="https://fangyuhsu.website/invitation/"/>
+        <id>https://fangyuhsu.website/invitation/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-27T22:20:48+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://fangyuhsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_ft_pic.png" class="type:primaryImage" alt="" /></p>
                 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_01.png" alt="" width="1080" height="1557" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-xs.png 300w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-sm.png 480w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-md.png 768w ,https://fangyu-hsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_01.png" alt="" width="1080" height="1557" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-xs.png 300w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-sm.png 480w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-md.png 768w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_01-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-xs.png 300w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-sm.png 480w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-md.png 768w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/31/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben.png" alt="" width="1080" height="2563" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-xs.png 300w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-sm.png 480w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-md.png 768w ,https://fangyuhsu.website/media/posts/31/responsive/Wai-Xiao-Yao-Qing-Qia_02-Fu-Ben-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -137,18 +171,18 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/roll-up_banner/"/>
-        <id>https://fangyu-hsu.website/roll-up_banner/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" medium="image" />
+        <link href="https://fangyuhsu.website/roll-up_banner/"/>
+        <id>https://fangyuhsu.website/roll-up_banner/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-27T22:58:40+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_01.png" alt="" width="1080" height="5136" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_02.png" alt="" width="1080" height="996" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-xs.png 300w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-sm.png 480w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-md.png 768w ,https://fangyu-hsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_ft_pic-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_01.png" alt="" width="1080" height="5136" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-xs.png 300w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-sm.png 480w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-md.png 768w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_01-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/30/Yi-La-Bao-Pai-Ban_02.png" alt="" width="1080" height="996" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-xs.png 300w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-sm.png 480w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-md.png 768w ,https://fangyuhsu.website/media/posts/30/responsive/Yi-La-Bao-Pai-Ban_02-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -157,17 +191,17 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/brochure/"/>
-        <id>https://fangyu-hsu.website/brochure/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" medium="image" />
+        <link href="https://fangyuhsu.website/brochure/"/>
+        <id>https://fangyuhsu.website/brochure/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-27T23:24:30+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2.png" alt="" width="1080" height="2390" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-xs.png 300w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-sm.png 480w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-md.png 768w ,https://fangyu-hsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/29/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2.png" alt="" width="1080" height="2390" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-xs.png 300w ,https://fangyuhsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-sm.png 480w ,https://fangyuhsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-md.png 768w ,https://fangyuhsu.website/media/posts/29/responsive/Chuan-Dan-Shou-Ce-She-Ji-Pai-Ban_01-2-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -176,17 +210,17 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/greeting_card/"/>
-        <id>https://fangyu-hsu.website/greeting_card/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" medium="image" />
+        <link href="https://fangyuhsu.website/greeting_card/"/>
+        <id>https://fangyuhsu.website/greeting_card/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" medium="image" />
             <category term="Graphic Design"/>
 
         <updated>2024-04-28T00:42:52+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/27/He-Qia-She-Ji_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-md.png 768w ,https://fangyu-hsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-lg.png 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/27/He-Qia-She-Ji_ft_pic-3.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/27/He-Qia-She-Ji_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-xs.png 300w ,https://fangyuhsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-sm.png 480w ,https://fangyuhsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-md.png 768w ,https://fangyuhsu.website/media/posts/27/responsive/He-Qia-She-Ji_01-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
@@ -195,46 +229,27 @@
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyu-hsu.website/brand-makeup/"/>
-        <id>https://fangyu-hsu.website/brand-makeup/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/13/01.jpg" medium="image" />
+        <link href="https://fangyuhsu.website/brand-makeup/"/>
+        <id>https://fangyuhsu.website/brand-makeup/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/13/01.jpg" medium="image" />
             <category term="3D Modeling"/>
 
         <updated>2024-04-28T22:30:51+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://fangyu-hsu.website/media/posts/13/01.jpg" alt="" />
+                        <img src="https://fangyuhsu.website/media/posts/13/01.jpg" alt="" />
                     自創美妝品牌「FLORA」－VIOLET系列彩妝商品 個人喜歡紫色的商品，所以用紫羅蘭為主題， 製作出整套含包裝的美妝系列產品。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/13/01.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://fangyuhsu.website/media/posts/13/01.jpg" class="type:primaryImage" alt="" /></p>
                 <p>自創美妝品牌「FLORA」－VIOLET系列彩妝商品<br>個人喜歡紫色的商品，所以用紫羅蘭為主題，<br>製作出整套含包裝的美妝系列產品。</p>
 <h6><br>使用軟件：Cinema 4D(Octane render)、Illustrator、Photoshop</h6>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://fangyu-hsu.website/media/posts/13/006_all_s.jpg" alt="" width="1080" height="3600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-md.jpg 768w ,https://fangyu-hsu.website/media/posts/13/responsive/006_all_s-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/13/006-02color-half.jpg" alt="" width="1800" height="1800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-xs.jpg 300w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-sm.jpg 480w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-md.jpg 768w ,https://fangyu-hsu.website/media/posts/13/responsive/006-02color-half-lg.jpg 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/13/006-04s.gif" alt="" width="512" height="600"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>E-commerce Poster</title>
-        <author>
-            <name>Flora</name>
-        </author>
-        <link href="https://fangyu-hsu.website/ecommerce_poster/"/>
-        <id>https://fangyu-hsu.website/ecommerce_poster/</id>
-        <media:content url="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_ft_pic.png" medium="image" />
-            <category term="Graphic Design"/>
-
-        <updated>2024-04-28T00:03:03+08:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_ft_pic.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyu-hsu.website/media/posts/12/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01.png" alt="" width="1080" height="5918" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-xs.png 300w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-sm.png 480w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-md.png 768w ,https://fangyu-hsu.website/media/posts/12/responsive/Dian-Shang-Hai-Bao-She-Ji-Pai-Ban_01-lg.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://fangyuhsu.website/media/posts/13/006_all_s.jpg" alt="" width="1080" height="3600" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/13/responsive/006_all_s-xs.jpg 300w ,https://fangyuhsu.website/media/posts/13/responsive/006_all_s-sm.jpg 480w ,https://fangyuhsu.website/media/posts/13/responsive/006_all_s-md.jpg 768w ,https://fangyuhsu.website/media/posts/13/responsive/006_all_s-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/13/006-02color-half.jpg" alt="" width="1800" height="1800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/13/responsive/006-02color-half-xs.jpg 300w ,https://fangyuhsu.website/media/posts/13/responsive/006-02color-half-sm.jpg 480w ,https://fangyuhsu.website/media/posts/13/responsive/006-02color-half-md.jpg 768w ,https://fangyuhsu.website/media/posts/13/responsive/006-02color-half-lg.jpg 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/13/006-04s.gif" alt="" width="512" height="600"></figure>
             ]]>
         </content>
     </entry>
