@@ -1,36 +1,29 @@
 // Sticky menu
-var new_scroll_position = 0;
-var last_scroll_position;
-var header = document.getElementById("js-header");
-var stickyMenu = document.getElementById("js-navbar-menu");
+let newScrollPosition = 0;
+let lastScrollPosition;
+const header = document.getElementById("js-top");
 
-window.addEventListener('scroll', function (e) {
-	last_scroll_position = window.scrollY;
+window.addEventListener('scroll', () => {
+    lastScrollPosition = window.scrollY;
 
-	// Scrolling down
-	if (new_scroll_position < last_scroll_position && last_scroll_position > 90) {
-		header.classList.remove("is-visible");
-		header.classList.add("is-hidden");
+    // Scrolling down
+    if (newScrollPosition < lastScrollPosition && lastScrollPosition > 184) {
+        header.classList.remove("is-visible");
+        header.classList.add("is-hidden");
+    // Scrolling up
+    } else if (newScrollPosition > lastScrollPosition) {
+        header.classList.remove("is-hidden");
+        header.classList.add("is-visible");
+    }
 
-		// Scrolling up
-	} else if (new_scroll_position > last_scroll_position && last_scroll_position > 89) {
-		header.classList.remove("is-hidden");
-		header.classList.add("is-visible");
-		if (stickyMenu) {
-			stickyMenu.classList.add("is-sticky");
-		}
-	}
+    if (lastScrollPosition < 184) {
+        header.classList.remove("is-visible");
+    }
 
-	if (last_scroll_position < 1) {
-		header.classList.remove("is-visible");
-
-		if (stickyMenu) {
-			stickyMenu.classList.remove("is-sticky");
-		}
-	}
-
-	new_scroll_position = last_scroll_position;
+    newScrollPosition = lastScrollPosition;
 });
+
+
 
 // Dropdown menu
 (function (menuConfig) {
@@ -461,13 +454,35 @@ window.addEventListener('scroll', function (e) {
     init();
 })(window.publiiThemeMenuConfig);
 
+
+// Load search input area
+const searchButton = document.querySelector(".js-search-btn");
+const searchOverlay = document.querySelector(".js-search-overlay");
+const searchClose = document.querySelector(".js-search-close");
+const searchInput = document.querySelector("[type='search']");
+
+if (searchButton && searchOverlay && searchClose) {
+    searchButton.addEventListener("click", () => {
+        searchOverlay.classList.add("expanded");
+        if (searchInput) {
+            setTimeout(() => {
+                searchInput.focus();
+            }, 60);
+        }
+    });
+
+    searchClose.addEventListener("click", () => {
+        searchOverlay.classList.remove("expanded");
+    });
+}
+
 // Share buttons pop-up
 (function () {
     // share popup
-    let shareButton = document.querySelector('.js-post__share-button');
-    let sharePopup = document.querySelector('.js-post__share-popup');
+    const shareButton = document.querySelector('.js-content__share-button');
+    const sharePopup = document.querySelector('.js-content__share-popup');
 
-    if (shareButton) {
+    if (shareButton && sharePopup) {
         sharePopup.addEventListener('click', function (e) {
             e.stopPropagation();
         });
@@ -484,71 +499,69 @@ window.addEventListener('scroll', function (e) {
     }
 
     // link selector and pop-up window size
-    var Config = {
+    const Config = {
         Link: ".js-share",
         Width: 500,
         Height: 500
     };
-    // add handler links
-    var slink = document.querySelectorAll(Config.Link);
-    for (var a = 0; a < slink.length; a++) {
-        slink[a].onclick = PopupHandler;
-    }
+
+    // add handler to links
+    const shareLinks = document.querySelectorAll(Config.Link);
+    shareLinks.forEach(link => {
+        link.addEventListener('click', PopupHandler);
+    });
+
     // create popup
     function PopupHandler(e) {
-        e = (e ? e : window.event);
-        var t = (e.target ? e.target : e.srcElement);
+        e.preventDefault();
+
+        const target = e.target.closest(Config.Link);
+        if (!target) return;
+
         // hide share popup
         if (sharePopup) {
             sharePopup.classList.remove('is-visible');
         }
+
         // popup position
-        var px = Math.floor(((screen.availWidth || 1024) - Config.Width) / 2),
-            py = Math.floor(((screen.availHeight || 700) - Config.Height) / 2);
+        const px = Math.floor((window.innerWidth - Config.Width) / 2);
+        const py = Math.floor((window.innerHeight - Config.Height) / 2);
+
         // open popup
-        var link_href = t.href ? t.href : t.parentNode.href;
-        var popup = window.open(link_href, "social",
-            "width=" + Config.Width + ",height=" + Config.Height +
-            ",left=" + px + ",top=" + py +
-            ",location=0,menubar=0,toolbar=0,status=0,scrollbars=1,resizable=1");
+        const linkHref = target.href;
+        const popup = window.open(linkHref, "social", `
+            width=${Config.Width},
+            height=${Config.Height},
+            left=${px},
+            top=${py},
+            location=0,
+            menubar=0,
+            toolbar=0,
+            status=0,
+            scrollbars=1,
+            resizable=1
+        `);
+
         if (popup) {
             popup.focus();
-            if (e.preventDefault) e.preventDefault();
-            e.returnValue = false;
         }
-
-        return !!popup;
     }
 })();
 
-// Load search input area
-var searchButton = document.querySelector('.js-search-btn');
-    searchOverlay = document.querySelector('.js-search-overlay');
-    searchInput = document.querySelector('[type="search"]');
+// Back to top
+const backToTopButton = document.getElementById("backToTop");
 
-if (searchButton) {
-    searchButton.addEventListener('click', function () {        
-        searchOverlay.classList.toggle('expanded');
-       
-        if (searchInput) {
-            setTimeout(function() {
-                if (searchOverlay.classList.contains('expanded')) {
-                    searchInput.focus();
-                }
-            }, 60);  
-        }      
+if (backToTopButton) {
+    window.addEventListener('scroll', () => {
+        if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+            backToTopButton.classList.add("is-visible");
+        } else {
+            backToTopButton.classList.remove("is-visible");
+        }
     });
 
-    searchOverlay.addEventListener('click', function (e) {
-        e.stopPropagation();
-    });
-
-    searchButton.addEventListener('click', function (e) {
-        e.stopPropagation();
-    });
-
-    document.body.addEventListener('click', function () {
-        searchOverlay.classList.remove('expanded');
+    backToTopButton.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 }
 
