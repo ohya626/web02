@@ -3,7 +3,7 @@
     <title>Fang Yu Hsu Portfolio</title>
     <link href="https://fangyuhsu.website/feed.xml" rel="self" />
     <link href="https://fangyuhsu.website" />
-    <updated>2024-11-16T16:19:08+08:00</updated>
+    <updated>2024-11-25T22:18:57+08:00</updated>
     <author>
         <name>Flora</name>
     </author>
@@ -78,22 +78,22 @@
         </content>
     </entry>
     <entry>
-        <title>Display Stand Design</title>
+        <title>Makeup POSM Design</title>
         <author>
             <name>Flora</name>
         </author>
-        <link href="https://fangyuhsu.website/display_stand/"/>
-        <id>https://fangyuhsu.website/display_stand/</id>
-        <media:content url="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" medium="image" />
+        <link href="https://fangyuhsu.website/posm/"/>
+        <id>https://fangyuhsu.website/posm/</id>
+        <media:content url="https://fangyuhsu.website/media/posts/34/Makeup-POSM_ft_pic.jpg" medium="image" />
             <category term="GRAPHIC DESIGN"/>
 
-        <updated>2024-07-17T23:38:17+08:00</updated>
+        <updated>2024-11-25T22:18:57+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_ft_pic-2.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_01-2.png" alt="" width="1080" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-xs.png 300w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-sm.png 480w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-md.png 768w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_01-2-lg.png 1024w"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Mei-Guo-Zhan-Jia-Pai-Ban_02.jpg" alt="" width="1080" height="1875" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-xs.jpg 300w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-sm.jpg 480w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-md.jpg 768w ,https://fangyuhsu.website/media/posts/34/responsive/Mei-Guo-Zhan-Jia-Pai-Ban_02-lg.jpg 1024w"></figure>
+                    <p><img src="https://fangyuhsu.website/media/posts/34/Makeup-POSM_ft_pic.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Makeup-POSM_01.jpg" alt="" width="1080" height="1920" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_01-xs.jpg 300w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_01-sm.jpg 480w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_01-md.jpg 768w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_01-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://fangyuhsu.website/media/posts/34/Makeup-POSM_02.jpg" alt="" width="1080" height="1875" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_02-xs.jpg 300w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_02-sm.jpg 480w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_02-md.jpg 768w ,https://fangyuhsu.website/media/posts/34/responsive/Makeup-POSM_02-lg.jpg 1024w"></figure>
 <p> </p>
             ]]>
         </content>
